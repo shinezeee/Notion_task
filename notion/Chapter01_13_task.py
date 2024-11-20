@@ -1,7 +1,7 @@
 
 
 receipts = [] # 빈리스트 #영수증
-balance = 0 
+balance = 1000000
 while True :
     num = input("사용하실 기능을 선택헤주세요 (1:입금, 2:출금, 3:영수증보기 4:종료)")
     if num =="1":
